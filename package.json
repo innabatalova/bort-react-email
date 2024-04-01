@@ -1,0 +1,24 @@
+{
+  "name": "bort-react-email",
+  "description": "Add library react-email to Bort Global",
+  "version": "1.0.0",
+  "main": "index.tsx",
+  "scripts": {
+    "dev": "email dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@react-email/components": "0.0.16",
+    "react-email": "2.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/innabatalova/bort-react-email.git"
+  },
+  "author": "Inna Batalova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/innabatalova/bort-react-email/issues"
+  },
+  "homepage": "https://github.com/innabatalova/bort-react-email#readme"
+}
