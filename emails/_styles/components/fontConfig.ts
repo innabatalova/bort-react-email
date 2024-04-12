@@ -8,7 +8,3 @@ export const fontConfig = {
     fontWeight: '600'
   }],
 }
-
-export const colorsConfig = {
-  'primary': '#333333'
-}

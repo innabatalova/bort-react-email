@@ -39,16 +39,16 @@ const Email = () => {
           <Link href="https://bort.ru/izmelchiteli-othodov/" >
             <Img src="/static/text-banner.jpg" className="w-mobile lg:w-screen h-mobile p-mobile lg:p-screen" style={{ height: "280px" }} alt="Новые измельчители Bort с полным контролем" />
           </Link>
-          <Text className="text-primary lg:text-primary">Покупайте в любимом интернет-магазине 1111</Text>
           <Link href="https://bort.ru/izmelchiteli-othodov/" >
             <Img src="/static/buy-banner.jpg" className="w-mobile lg:w-screen h-mobile" style={{ height: "80px", paddingBottom: "10px" }} alt="Новые измельчители Bort с полным контролем" />
           </Link>
-          <Text className="text-secondary lg:text-secondary">Покупайте в любимом интернет-магазине 22222</Text>
           <Img src="/static/compare-banner.jpg" className="w-mobile lg:w-screen h-mobile" style={{ height: "180px" }} alt="Новые измельчители Bort с полным контролем" />
           <Link href="https://bort.ru/izmelchiteli-othodov/" >
             <Img src="/static/warranty-banner.jpg" className="w-mobile lg:w-screen h-mobile" style={{ height: "80px", paddingBottom: "10px" }} alt="Новые измельчители Bort с полным контролем" />
           </Link>
-          <Text className="text-primary lg:text-primary">Покупайте в любимом интернет-магазине 565623</Text>
+          <Text className="text-secondary lg:text-primary">Покупайте в любимом интернет-магазине 565623</Text>
+          <Text className="text-secondary lg:text-primary">Покупайте в любимом интернет-магазине 565623</Text>
+          <Text className="text-secondary lg:text-secondary">Покупайте в любимом интернет-магазине 565623</Text>
         </Tailwind>
       </Container>
     </Html>
