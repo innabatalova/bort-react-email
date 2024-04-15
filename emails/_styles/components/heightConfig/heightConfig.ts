@@ -2,5 +2,6 @@ import { IHeightConfig } from "./IHeightConfig"
 
 export const heightConfig: IHeightConfig = {
   'mobile': 'auto',
-  'screen-partners': '160px'
+  'screen-block': '300px',
+  'screen-title': '120px'
 }

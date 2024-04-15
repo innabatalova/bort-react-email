@@ -1,4 +1,5 @@
 export interface IHeightConfig {
   'mobile': string,
-  'screen-partners': string
+  'screen-block': string,
+  'screen-title': string
 }

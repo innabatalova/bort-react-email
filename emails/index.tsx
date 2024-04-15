@@ -82,6 +82,41 @@ const Email: React.FC = (): React.ReactElement => {
             </Row>
           </Section>
 
+          <Section>
+            <Row className="mb-[40px]">
+              <Column className="inline-block lg:table-cell float-none lg:float-right w-full lg:w-screen-block">
+                <Link href="https://bort.ru/izmelchitel-pischevyh-othodov-bort-master-eco-control/">
+                  <Img src="/static/master-main.jpg" className="w-full lg:w-screen-block lg:h-screen-block" alt="Измельчитель Bort Master Eco Control" title="Измельчитель Bort Master Eco Control" />
+                </Link>
+              </Column>
+              <Column className="inline-block lg:table-cell float-none lg:float-left w-full lg:w-screen-text pl-0 lg:pl-[25px]">
+                <Img src="/static/master-title.jpg" className="w-screen-title h-screen-title m-auto lg:m-0" alt="Измельчитель Bort Master Eco Control" title="Измельчитель Bort Master Eco Control" />
+                <Text className="text-secondary lg:text-secondary text-center lg:text-left">
+                  Улучшенная версия самого популярного измельчителя BORT MASTER ECO. <br />
+                  Теперь с дистанционной кнопкой и автоотключением!
+                </Text>
+              </Column>
+            </Row>
+          </Section>
+
+          <Section>
+            <Row className="mb-[40px]">
+              <Column className="inline-block lg:table-cell w-full lg:w-screen-block">
+                <Link href="https://bort.ru/izmelchitel-pischevyh-othodov-bort-alligator-control/">
+                  <Img src="/static/alligator-main.jpg" className="w-full lg:w-screen-block lg:h-screen-block" alt="Измельчитель Bort Alligator Control" title="Измельчитель Bort Alligator Control" />
+                </Link>
+              </Column>
+              <Column className="inline-block lg:table-cell w-full lg:w-screen-text pl-0 lg:pl-[25px]">
+                <Img src="/static/alligator-title.jpg" className="w-screen-title h-screen-title m-auto lg:m-0" alt="Измельчитель Bort Alligator Control" title="Измельчитель Bort Alligator Control" />
+                <Text className="text-secondary lg:text-secondary text-center lg:text-left">
+                  Новая модель с мощным асинхронным двигателем, беспроводным
+                  управлением, автоотключением, реверсом, а также с
+                  антибактериальным покрытием ионами серебра всех элементов дробления в
+                  камере.</Text>
+              </Column>
+            </Row>
+          </Section>
+
           <Img src="/static/compare-banner.jpg" className="w-mobile lg:w-screen h-mobile" style={{ height: "180px" }} alt="Новые измельчители Bort с полным контролем" />
           <Link href="https://bort.ru/izmelchiteli-othodov/" >
             <Img src="/static/warranty-banner.jpg" className="w-mobile lg:w-screen h-mobile pb-[10px]" style={{ height: "80px" }} alt="Новые измельчители Bort с полным контролем" />
