@@ -1,8 +1,8 @@
-import { widthConfig } from "./components/widthConfig"
-import { heightConfig } from "./components/heightConfig"
-import { paddingConfig } from "./components/paddingConfig"
-import { fontConfig } from "./components/fontConfig"
-import { colorsConfig } from "./components/colorsConfig"
+import { widthConfig } from "./components/widthConfig/widthConfig"
+import { heightConfig } from "./components/heightConfig/heightConfig"
+import { paddingConfig } from "./components/paddingConfig/paddingConfig"
+import { fontConfig } from "./components/fontConfig/fontConfig"
+import { colorsConfig } from "./components/colorsConfig/colorsConfig"
 
 export const styleConfig = {
   theme: {
