@@ -7,5 +7,6 @@ export const widthConfig: IWidthConfig = {
   'screen-partners': '160px',
   'screen-block': '300px',
   'screen-title': '260px',
-  'screen-text': '275px'
+  'screen-text': '275px',
+  'screen-advantages': '170px'
 }

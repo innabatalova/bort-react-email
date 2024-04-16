@@ -5,5 +5,6 @@ export interface IWidthConfig {
   'screen-partners': string,
   'screen-block': string,
   'screen-title': string,
-  'screen-text': string
+  'screen-text': string,
+  'screen-advantages': string
 }
